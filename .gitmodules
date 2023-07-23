@@ -1,0 +1,4 @@
+[submodule "Walnut"]
+	path = Walnut
+	url = git@github.com:StudioCherno/Walnut.git
+	branch = dev
